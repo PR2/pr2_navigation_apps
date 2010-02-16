@@ -1,0 +1,17 @@
+<package>
+  <description brief="pr2_2dnav">
+
+     pr2_2dnav
+
+  </description>
+  <author>Eitan Marder-Eppstein</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pr2_2dnav</url>
+  <depend package="pr2_navigation_global"/>
+  <depend package="pr2_navigation_perception"/>
+  <depend package="pr2_machine"/>
+
+</package>
+
+

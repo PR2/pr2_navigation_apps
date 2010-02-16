@@ -1,0 +1,11 @@
+<stack>
+  <description brief="pr2_navigation_apps">pr2_navigation_apps</description>
+  <author>Maintained by Eitan Marder-Eppstein</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pr2_navigation_apps</url>
+  <depend stack="ros" />
+  <depend stack="pr2_navigation" />
+  <depend stack="pr2_common" />
+
+</stack>
