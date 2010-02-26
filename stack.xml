@@ -5,7 +5,7 @@
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/pr2_navigation_apps</url>
   <depend stack="pr2_common" /> <!-- pr2_machine -->
-  <depend stack="pr2_navigation" /> <!-- pr2_navigation_perception, pr2_navigation_teleop, pr2_navigation_slam, pr2_navigation_local, pr2_navigation_global -->
+  <depend stack="pr2_navigation" /> <!-- pr2_navigation_global, pr2_navigation_perception, pr2_navigation_slam, pr2_navigation_local, pr2_navigation_teleop -->
   <depend stack="ros" />
 
 </stack>
