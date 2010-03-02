@@ -1,5 +1,7 @@
 <stack>
-  <description brief="pr2_navigation_apps">pr2_navigation_apps</description>
+  <description brief="Navigation applications for the PR2 robot">
+    This stack holds a collection of navigation applications that can be run on the PR2 robot.
+  </description>
   <author>Maintained by Eitan Marder-Eppstein</author>
   <license>BSD</license>  
   <review status="unreviewed" notes=""/>

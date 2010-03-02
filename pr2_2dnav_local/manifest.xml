@@ -1,7 +1,7 @@
 <package>
-  <description brief="pr2_2dnav_local">
+  <description brief="Local navigation for the PR2 robot.">
 
-     pr2_2dnav_local
+     This application allows the PR2 to navigate autonomously in an odometric frame.
 
   </description>
   <author>Eitan Marder-Eppstein</author>
