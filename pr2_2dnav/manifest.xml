@@ -1,7 +1,7 @@
 <package>
-  <description brief="pr2_2dnav">
+  <description brief="Global navigation for the PR2 robot.">
 
-     pr2_2dnav
+     This application allows the PR2 robot to navigate autonomously with a pre-specified static map.
 
   </description>
   <author>Eitan Marder-Eppstein</author>
