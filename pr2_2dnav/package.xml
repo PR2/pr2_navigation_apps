@@ -1,6 +1,6 @@
 <package>
   <name>pr2_2dnav</name>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <description>This application allows the PR2 robot to navigate autonomously with a pre-specified static map.</description>
   <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 
