@@ -56,3 +56,5 @@ catkin_package(
     LIBRARIES # TODO
 )
 
+install(DIRECTORY launch DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION})
+
