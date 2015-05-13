@@ -2,5 +2,8 @@
 Changelog for package pr2_navigation_apps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.2 (2015-03-17)
 ------------------
