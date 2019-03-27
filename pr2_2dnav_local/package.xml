@@ -2,7 +2,7 @@
   <name>pr2_2dnav_local</name>
   <version>1.0.2</version>
   <description>This application allows the PR2 to navigate autonomously in an odometric frame.</description>
-  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+  <maintainer email="dave@cse.unr.edu">David Feil-Seifer</maintainer>
 
   <license>BSD</license>
 
